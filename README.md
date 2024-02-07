@@ -1,8 +1,4 @@
-#Doctor Appointment Tracking: 
-Developed a feature-rich doctor appointment tracking app using the MERN stack, leading to an increase in bookings reduction in wait times.
-Designed and implemented a user-friendly interface using React, ensuring accessibility and optimal performance across devices.
-Built a robust backend with Node.js and Express.js, guaranteeing security and scalability for user data.
-Tech Stack: React.js | Node.js | Express.js | MongoDB | Redux | MaterialUI
-
-#Render Leployed Link: 
-https://doctorapp-p4v7.onrender.com/
+Let’Talk:: Real Time Chat App :- 
+Build features for both individual and group chat functionalities, a responsive frontend(reactJs), and a scalable backend(nodeJs) with Socket.io for real-time messaging. 
+Implement features like WhatsApp, with seamless login, signUp using Google O-Auth authentication, and chat creation-deletion features. 
+Tech Stack: React.js | Node.js | Express.js | MongoDB | MaterialUI | Socket.io
